@@ -8,7 +8,7 @@ html {
 	box-sizing: border-box;
 }
 .hero{
-	height: 100vh;
+	height: 70vh;
 	width: 100%;
 	background-color: #000;
 }
@@ -34,6 +34,7 @@ nav ul li {
     background-color: #f9004d;
     border-radius: 20%;
     margin-bottom: 10px;
+    width: 30%;
 }
 nav ul li a{
 	color: #3e3e3e;
@@ -61,9 +62,9 @@ nav li:hover{
 	transform: scale(1.2);
 }
 .content{
-	position: absolute;
-    top: 55%;
-    left: 8%;
+    position: absolute;
+    top: 40%;
+    left: 6%;
     transform: translateY(-50%);
 }
 h1{
@@ -110,7 +111,7 @@ h4{
 
 .about{
 	width: 100%;
-	padding: 100px 0px;
+	padding: 230px 0px;
 	background-color: #191919;
 }
 .about img {
