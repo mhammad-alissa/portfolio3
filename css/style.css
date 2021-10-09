@@ -20,13 +20,10 @@ nav {
 
 
 nav ul li {
-    display: inline-block;
-    padding: 10px 41px;
+ display: inline-block;
+    padding: 30px 13px;
     background-color: #f9004d;
     border-radius: 20%;
-    margin-bottom: 10px;
-    width: 30%;
-	text-align: center;
 }
 nav ul li a{
 	color: #3e3e3e;
