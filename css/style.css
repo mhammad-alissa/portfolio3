@@ -37,6 +37,9 @@ nav li:hover{
 	color: #333 !important;
 	transition: .4s;
 }
+.note {
+	margin-right: 50px;
+}
 .content{
     position: absolute;
     top: 40%;
