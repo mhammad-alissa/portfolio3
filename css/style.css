@@ -20,7 +20,7 @@ nav {
 
 
 nav ul li {
- display: inline-block;
+    display: inline-block;
     padding: 30px 13px;
     background-color: #f9004d;
     border-radius: 20%;
